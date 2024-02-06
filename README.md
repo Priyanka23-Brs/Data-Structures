@@ -1,5 +1,27 @@
-# Data Structures
+#### Check out the live app [here](https://priyanka23-brs.github.io/Double-Linked-List/).
 
-A data structure (DS) is a systematic way of organizing and storing data to efficiently perform operations like insertion, deletion, and retrieval. It helps manage data and optimize algorithms, improving overall program efficiency and reducing memory usage.
+# Stack
 
-Common DS include arrays, linked lists, stacks, queues, trees, and hash tables, each designed to address specific data handling requirements.
+A stack is a data structure that follows the Last In First Out (LIFO) principle. This means that the last element that is inserted into the stack is the first element that is removed.
+
+# Stack Operations
+
+## Push
+
+To push an element into a stack, you need to specify the element to be pushed. The element will be added to the top of the stack.
+
+## Pop
+
+To pop an element from a stack, you need to specify the element to be popped. The element will be removed from the top of the stack.
+
+## Peek
+
+To peek at the element at the top of the stack, you need to specify the element to be peeked at. The element will be returned, but it will not be removed from the stack.
+
+## Is empty
+
+To check if a stack is empty, you need to specify the stack. The function will return true if the stack is empty, and false otherwise.
+
+## Is full
+
+To check if a stack is full, you need to specify the stack. The function will return true if the stack is full, and false otherwise.
