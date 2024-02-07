@@ -1,4 +1,4 @@
-#### Check out the live app [here](https://priyanka23-brs.github.io/Single-Linked-List/).
+ 
 
 
 # Linked List
