@@ -1,6 +1,4 @@
-#### Check out the live app [here](https://priyanka23-brs.github.io/Double-Linked-List/).
-
-# Queue
+ 
 
 A queue is a data structure that follows the First In First Out (FIFO) principle. This means that the first element that is inserted into the queue is the first element that is removed.
 
