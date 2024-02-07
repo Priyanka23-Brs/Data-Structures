@@ -1,5 +1,4 @@
-#### Check out the live app [here](https://priyanka23-brs.github.io/Data-Structures/).
-
+ 
 # Stack
 
 A stack is a data structure that follows the Last In First Out (LIFO) principle. This means that the last element that is inserted into the stack is the first element that is removed.
